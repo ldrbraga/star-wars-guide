@@ -45,7 +45,7 @@ export default class Main extends Component {
           </SelectOptions>
 
           <SubmitButton>
-            <FaSearch color="##fff" size={14} />
+            <FaSearch color="#fff" size={14} />
           </SubmitButton>
         </Form>
       </Container>
