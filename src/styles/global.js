@@ -14,9 +14,6 @@ export default createGlobalStyle`
 
   body {
     background: #222;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     -webkit-font-smoothing: antialiased !important;
   }
 
